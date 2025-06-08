@@ -1,40 +1,47 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Bangun Aplikasi Mobile & Web Andal Bersama Kami"
+  content: "Krayon Echa adalah studio pengembangan yang fokus pada solusi digital cepat dan efisien. Kami mengerjakan aplikasi mobile multiplatform dan website ringan untuk bisnis kecil hingga menengah, dengan pendekatan yang kolaboratif dan terukur."
+  image: "/images/allapp.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Hubungi Kami"
+    link: "http://wa.me/082233928872"
+
+image_section:
+  image: "/images/allapp.png"
+  caption: ""
+  alt: "Contoh Aplikasi Krayon Echa"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Apa yang Kamu Dapatkan dari Krayonecha"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Kami fokus mengembangkan aplikasi mobile dan web yang ringan, cepat dikembangkan, dan langsung bisa digunakan oleh bisnis atau pengguna. Apa yang akan kamu dapatkan :"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Desain UI yang simpel dan fungsional"
+      - "Fitur inti yang bisa langsung digunakan pengguna"
+      - "Aplikasi berbasis Multiplatform (Android & iOS)"
+      - "Fully responsive di semua perangkat"
+      - "Dokumentasi singkat & panduan penggunaan"
+      - "Siap untuk di-scale di masa depan"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: "Hubungi Kami"
+      link: "http://wa.me/082233928872"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Kenapa Pilih Krayon Echa?"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Kami bantu kamu membangun aplikasi pertama yang langsung bisa digunakan.
+Cocok untuk individu, UMKM, komunitas, dan startup tahap awal :"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Aplikasi katalog produk (UKM, brand lokal)"
+      - "Aplikasi event / seminar / edukasi"
+      - "Aplikasi form & pelaporan (survey, feedback)"
+      - "MVP (Minimum Viable Product) untuk startup"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 

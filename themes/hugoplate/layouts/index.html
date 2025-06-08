@@ -26,13 +26,30 @@
             {{ end }}
           </div>
           <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[1000px]" "DisplayXL" "1000x" ) }}
           </div>
         </div>
       </div>
     </section>
   {{ end }}
   <!-- /Banner -->
+
+  <!-- {{ with .Params.image_section }}
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="col-12 text-center">
+          {{ with .image }}
+            {{ partial "image" (dict "Src" . "Alt" "Section Image" "Class" "mx-auto" "Style" "max-width:100%; height:auto;" "Option" "q100") }}
+          {{ end }}
+          {{ with .caption }}
+            <p class="mt-4 text-muted">{{ . | markdownify }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }} -->
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}

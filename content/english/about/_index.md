@@ -1,9 +1,11 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Tentang Kami"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/logo_krayonecha.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Krayon Echa adalah studio digital independen yang dibangun software engineer yang berbagi semangat yang sama dalam menciptakan solusi teknologi yang ringan, sederhana, dan tepat guna.
+
+Bermula dari ketertarikan kami terhadap dunia IT development, Krayon Echa lahir sebagai wadah untuk mewujudkan proyek-proyek digital yang tidak hanya fungsional, tapi juga menyenangkan untuk digunakan. Kami percaya bahwa produk yang baik tidak selalu harus rumit — yang penting adalah fokus pada kebutuhan pengguna dan eksekusi yang rapi.
